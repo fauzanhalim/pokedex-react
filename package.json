@@ -1,6 +1,6 @@
 {
   "name": "pokeapi",
-  "homepage": "http://fauzanhalim.github.io/pokeapi-react",
+  "homepage": "http://fauzanhalim.github.io/pokedex-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
